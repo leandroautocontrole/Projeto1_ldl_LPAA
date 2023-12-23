@@ -1,6 +1,6 @@
 '''
 /***************************************************************************
- *   projeto1.py                                Version 20231213.154354    *
+ *   projeto1.py                                Version 20231222.224454    *
  *                                                                         *
  *   Análise e Exploração de Dados                                         *
  *   UFO Sightings                                                         *
@@ -369,3 +369,4 @@ layout = dict(
 
 fig = go.Figure(data=data, layout=layout)
 py.iplot(fig)
+#/* ---------------------------------------------------------------------- */
